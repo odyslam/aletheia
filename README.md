@@ -22,5 +22,6 @@ version: `paper-napkin`
 - [ ] aether -- Ethereum blockchain interface module
 
 ### Decentralized Oracle
-
+TBD
 ### Inflation-Adjusted DeFi
+TBD
