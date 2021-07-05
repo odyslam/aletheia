@@ -5,3 +5,22 @@
 Aletheia (Or Alathea) was the spirit of truth, truthfulness, and sincerity. She had three opposites; Dolos, the god of trickery, Apate, the goddess of deception, and all the Pseudologoi, the gods of lies. Her Roman name was Veritas. She is either a daughter of Zeus or she was created by Prometheus.
 
 Aletheia is the first decentralized inflation oracle
+
+
+## Roadmap
+
+Whitepaper: https://roamresearch.com/#/app/Symposium/page/Xt8Pkxjz1
+version: `paper-napkin`
+
+### MVP Inflation Feed
+- [ ] aletheia -- orchestrator module
+- [ ] hermes -- scraping module
+- [ ] hephaeustus -- computation module
+- [ ] nemesis -- proof module
+- [ ] zephyrus -- p2p module (for [bitclout](https://bitclout.com))
+- [ ] lethe -- archive module
+- [ ] aether -- Ethereum blockchain interface module
+
+### Decentralized Oracle
+
+### Inflation-Adjusted DeFi
