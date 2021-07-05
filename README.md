@@ -15,7 +15,7 @@ Aletheia is the first decentralized inflation oracle
 ### MVP Inflation Feed
 - [ ] aletheia -- orchestrator module
 - [ ] hermes -- scraping module
-- [ ] hephaeustus -- computation module
+- [ ] hephaestus -- computation module
 - [ ] nemesis -- proof module
 - [ ] zephyrus -- p2p module (for [bitclout](https://bitclout.com))
 - [ ] lethe -- archive module
