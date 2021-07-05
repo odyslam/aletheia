@@ -9,8 +9,8 @@ Aletheia is the first decentralized inflation oracle
 
 ## Roadmap
 
-Whitepaper: https://roamresearch.com/#/app/Symposium/page/Xt8Pkxjz1
-version: `paper-napkin`
+- whitepaper: https://roamresearch.com/#/app/Symposium/page/Xt8Pkxjz1
+- version: `paper-napkin`
 
 ### MVP Inflation Feed
 - [ ] aletheia -- orchestrator module
